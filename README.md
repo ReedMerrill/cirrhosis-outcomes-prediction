@@ -3,3 +3,4 @@ This project is for the ["Multi-Class Prediction of Cirrhosis Outcomes"](https:/
 # To-do
 
 1. Add a stacking ensemble.
+2. Implement Optuna and cross validation.
